@@ -5,7 +5,7 @@
 
 To develop a Python-based application utilizing OpenCV to recognize and interpret specific hand gestures from a live video feed. The recognized gestures will be mapped to predefined actions, enabling control of various devices or software applications through intuitive hand movements.
 
-## ALGORITHM
+## ALGORITHM:
 
 1. Import Necessary Libraries:
 
