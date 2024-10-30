@@ -69,7 +69,7 @@ Display the processed video feed on the screen.
 
 Continuously iterate through steps 3 to 9 to detect, recognize, and respond to new hand gestures in real-time.
 
-## PROGRAM
+## PROGRAM:
 ```
 def main():
     devices = AudioUtilities.GetSpeakers()
